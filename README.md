@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="os ticket.png" alt="osTicket Logo" width="200">
+  <img src="osticket.png" alt="osTicket Logo" width="200">
 </p>
 
 # osTicket — Prerequisites and Installation  
