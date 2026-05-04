@@ -88,7 +88,7 @@ You will install all required software, configure IIS, set up PHP, create a data
 4. Create a database for osTicket: CREATE DATABASE osticket;
 
 <p align="center">
-<img src="mysql-install.png" width="80%">
+<img src="mysql.png" width="80%">
 </p>
 
 ---
