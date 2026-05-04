@@ -57,7 +57,7 @@ You will install all required software, configure IIS, set up PHP, create a data
 4. Click **OK** and let Windows install IIS
 
 <p align="center">
-  <img src="iisinstall.png" width="80%">
+  <img src="IISINSTALL.png" width="80%">
 </p>
 
 ---
