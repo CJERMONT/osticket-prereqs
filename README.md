@@ -107,7 +107,7 @@ You will install all required software, configure IIS, set up PHP, create a data
 5. Restart IIS
 
 <p align="center">
-<img src="iis-php.png" width="80%">
+<img src="setupphp.png" width="80%">
 </p>
 
 ---
@@ -122,8 +122,6 @@ You will install all required software, configure IIS, set up PHP, create a data
 3. Copy the **upload** folder to: C:\inetpub\wwwroot\osTicket
 4. Rename: ost-sampleconfig.php → ost-config.php
 
-<p align="center">
-<img src="osticket-files.png" width="80%">
 </p>
 
 ---
