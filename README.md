@@ -10,12 +10,6 @@ You will install all required software, configure IIS, set up PHP, create a data
 
 ---
 
-# 🎥 Video Demonstration
-- **YouTube:** How To Install osTicket with Prerequisites  
-  *(Insert your link here)*
-
----
-
 # 🧰 Technologies Used
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop (RDP)
@@ -43,7 +37,7 @@ You will install all required software, configure IIS, set up PHP, create a data
 - Connect to the VM using **Remote Desktop**
 
 <p align="center">
-  <img src="vm-creation.png" width="80%">
+  <img src="Virtual machine create.png" width="80%">
 </p>
 
 ---
