@@ -178,13 +178,4 @@ You will install all required software, configure IIS, set up PHP, create a data
 
 You now have a fully working osTicket help desk system running on your Azure VM.
 
----
 
-# 📌 Optional Add‑Ons
-- Email piping  
-- SMTP configuration  
-- SSL certificate  
-- Custom themes  
-- Agent/admin training  
-
----
