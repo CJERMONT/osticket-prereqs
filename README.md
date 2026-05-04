@@ -136,7 +136,7 @@ You will install all required software, configure IIS, set up PHP, create a data
 - Write
 
 <p align="center">
-<img src="permissions.png" width="80%">
+<img src="filep.png" width="80%">
 </p>
 
 ---
