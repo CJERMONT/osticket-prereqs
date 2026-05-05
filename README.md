@@ -5,8 +5,24 @@
 # osTicket — Prerequisites and Installation  
 *A simple, beginner‑friendly walkthrough with screenshots*
 
-This guide shows you how to install the open‑source help desk system **osTicket** on a Windows 10 Virtual Machine in Microsoft Azure.  
-You will install all required software, configure IIS, set up PHP, create a database, and finish the osTicket installation.
+## 📝 Project Summary
+
+This project is a beginner‑friendly walkthrough demonstrating how to deploy and configure the **osTicket Help Desk Ticketing System** on a Windows 10 Virtual Machine hosted in Microsoft Azure. The project covers installation of all prerequisites, configuration of IIS and PHP, database setup, and final deployment of the osTicket web portal.
+
+**Languages Used:**  
+- PowerShell (optional for service checks or automation)
+
+**Environments Used:**  
+- Microsoft Azure  
+- Windows 10 Virtual Machine  
+- Remote Desktop (RDP)
+
+**Technologies / Applications / Services Used:**  
+- osTicket  
+- Internet Information Services (IIS)  
+- PHP + required extensions  
+- MySQL Server  
+- Azure Virtual Machines
 
 ---
 
@@ -122,8 +138,6 @@ You will install all required software, configure IIS, set up PHP, create a data
 3. Copy the **upload** folder to: C:\inetpub\wwwroot\osTicket
 4. Rename: ost-sampleconfig.php → ost-config.php
 
-</p>
-
 ---
 
 ## ✔️ 7. Set File Permissions
@@ -177,5 +191,4 @@ You will install all required software, configure IIS, set up PHP, create a data
 # 🎉 Installation Complete!
 
 You now have a fully working osTicket help desk system running on your Azure VM.
-
 
