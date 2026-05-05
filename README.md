@@ -3,7 +3,7 @@
 </p>
 
 # osTicket — Prerequisites and Installation  
-*A simple, beginner‑friendly walkthrough with screenshots*
+*A simple, beginner‑friendly walkthrough with aids*
 
 ## 📝 Project Summary
 
